@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="fPmCL_n7AvlzBnWUxbowYch-1BA2OuNaDEkuQyr_G-8" />
 # Udacity-Data-Analysis-and-Viz-with-Microsoft-Power-BI 📊
 This repository includes projects from Udacity’s Data Analysis and Visualization with Microsoft Power BI Nanodegree Program. The program focuses on important skills for data analysts, like data preprocessing, visualization, and analysis using Power BI. Here, you'll find my solutions for the three projects required to earn the certificate.
 # List of Projects <img width="53" alt="image" src="https://github.com/user-attachments/assets/c030a355-67fd-49be-8e95-e6d4fbbe5913">
